@@ -1,0 +1,61 @@
+video {
+    /*object-fit: contain;*/
+    width: 50%;
+    height: 50%;
+    margin-left: 48vw;
+    margin-top: -140px;
+    /*size: 60%;*/
+    /*position: sticky;*/
+    /*z-index: 1;*/
+}
+
+.about-us-container {
+    height: 100vh;
+    width: 100%;
+    margin-top: -60px;
+    background-color: #4e4949;
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*object-fit: contain;*/
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us-container video {
+    /*display: flex;*/
+    /*margin-left: 40vw;*/
+}
+
+.section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.text > h1 {
+    color: #F5F5DC;
+    font-size: 100px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.text > p {
+    margin-top: 8px;
+    color: #F5F5DC;
+    font-size: 32px;
+    margin-right: 52vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.about-us-btns {
+    margin-top: -105px;
+    margin-left: 75px;
+}
+
+.about-us-btns .btns {
+    /*margin: 60px;*/
+}
